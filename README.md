@@ -30,3 +30,9 @@ Now, I am switching my career to Artificial Intelligence and Machine Learning. I
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ramakrishna-aiml)
+
+### Day 2 – IBM Data Analytics & Python Pandas
+✅ Completed some of the lessons in **IBM Data Analytics Professional Certificate (Coursera)**.  
+✅ Achieved **25% completion** of **Simplilearn's Python Pandas course**.  
+❓ Challenge: Understanding advanced indexing and series basics and loc and iloc impartance etc. in Pandas.  
+💡 Insight: Pandas' DataFrame operations simplify large-scale data manipulation.  
