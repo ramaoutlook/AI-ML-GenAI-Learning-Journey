@@ -27,6 +27,7 @@ Now, I am switching my career to Artificial Intelligence and Machine Learning. I
 - Learned the basics of data analysis and the role of a data analyst.
 - Completed the first module on data collection and understanding.
 
+
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ramakrishna-aiml)
@@ -35,4 +36,13 @@ Now, I am switching my career to Artificial Intelligence and Machine Learning. I
 ✅ Completed some of the lessons in **IBM Data Analytics Professional Certificate (Coursera)**.  
 ✅ Achieved **25% completion** of **Simplilearn's Python Pandas course**.  
 ❓ Challenge: Understanding advanced indexing and series basics and loc and iloc impartance etc. in Pandas.  
-💡 Insight: Pandas' DataFrame operations simplify large-scale data manipulation.  
+💡 Insight: Pandas' DataFrame operations simplify large-scale data manipulation.
+
+### Day 3 – Advanced Pandas & Projects
+- ✅ Completed the Simplilearn Python Pandas course and obtained a certificate of completion. [Certificate Link](https://certificates.simplicdn.net/share/7942221_82198091740179698778.pdf)
+- ✅ Learned about pivot functions, outliers, filters, and the groupby function in Pandas.
+- ✅ Completed 3 projects to practice and analyze the learned concepts.
+
+## Future Plans
+- Continue with IBM Data Analytics Professional Certificate.
+- Start learning about machine learning algorithms with google's Machine Learning Crash Course.
