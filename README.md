@@ -46,3 +46,11 @@ Now, I am switching my career to Artificial Intelligence and Machine Learning. I
 ## Future Plans
 - Continue with IBM Data Analytics Professional Certificate.
 - Start learning about machine learning algorithms with google's Machine Learning Crash Course.
+
+### Day 4 – Introduction to Machine Learning (22nd-Feb-2025)
+- ✅ Completed Google's "Introduction to Machine Learning" course.
+- 📺 Watched several YouTube videos by Google to brush up on the basics of machine learning.
+
+### Day 5 – AI for Everyone (23rd-Feb-2025)
+- ✅ Completed the "Google AI for Everyone" course on Coursera, taught by Andrew Ng. [Course Link](https://www.coursera.org/learn/ai-for-everyone)
+
