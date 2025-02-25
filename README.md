@@ -54,13 +54,13 @@ Now, I am switching my career to Artificial Intelligence and Machine Learning. I
 ### Day 5 – AI for Everyone (23rd-Feb-2025)
 - ✅ Completed the "Google AI for Everyone" course on Coursera, taught by Andrew Ng. [Course Link](https://www.coursera.org/learn/ai-for-everyone)
 
-### Day 6 – Advanced Pandas & Projects (24th-Feb-2025)
+### Day 6 – IBM Machine Learning Certification Course Preparation and Assignments  (24th-Feb-2025)
 - 📘 Commenced the Coursera course titled "IBM Professional Certification for Machine Learning Engineer"
 - ✅ Successfully completed the first week's lessons of the initial module in the "IBM Professional Certification in Machine Learning Engineer"
 - 📝 Thoroughly practiced all assignments and successfully completed all graded quizzes associated with these lessons
 - 📂 Jupyter notebooks used for practice will be uploaded today in the IBM Courses folder within this repository
 
-### Day 7 – Advanced Pandas & Projects (25th-Feb-2025)
+### Day 7 – Data Visualization and Matplotlib (25th-Feb-2025)
 - ✅ Successfully completed the first sub-module of the "Data Visualization with Python" module, which is part of the IBM Data Analyst Professional Certification Course on Coursera
 - 🏅 Successfully finished the "Matplotlib with Python" certification course on Intellipath, which is now pending evaluation
 - 📂 Data Visualization assignment Jupyter notebook files have been uploaded to the IBM Courses folder within this repository
