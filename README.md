@@ -32,13 +32,13 @@ Now, I am switching my career to Artificial Intelligence and Machine Learning. I
 
 - [LinkedIn](https://www.linkedin.com/in/ramakrishna-aiml)
 
-### Day 2 – IBM Data Analytics & Python Pandas
+### Day 2 – IBM Data Analytics & Python Pandas (20th-Feb-2025)
 ✅ Completed some of the lessons in **IBM Data Analytics Professional Certificate (Coursera)**.  
 ✅ Achieved **25% completion** of **Simplilearn's Python Pandas course**.  
 ❓ Challenge: Understanding advanced indexing and series basics and loc and iloc impartance etc. in Pandas.  
 💡 Insight: Pandas' DataFrame operations simplify large-scale data manipulation.
 
-### Day 3 – Advanced Pandas & Projects
+### Day 3 – Advanced Pandas & Projects (21st-Feb-2025)
 - ✅ Completed the Simplilearn Python Pandas course and obtained a certificate of completion. [Certificate Link](https://certificates.simplicdn.net/share/7942221_82198091740179698778.pdf)
 - ✅ Learned about pivot functions, outliers, filters, and the groupby function in Pandas.
 - ✅ Completed 3 projects to practice and analyze the learned concepts.
@@ -54,3 +54,14 @@ Now, I am switching my career to Artificial Intelligence and Machine Learning. I
 ### Day 5 – AI for Everyone (23rd-Feb-2025)
 - ✅ Completed the "Google AI for Everyone" course on Coursera, taught by Andrew Ng. [Course Link](https://www.coursera.org/learn/ai-for-everyone)
 
+### Day 6 – Advanced Pandas & Projects (24th-Feb-2025)
+- 📘 Commenced the Coursera course titled "IBM Professional Certification for Machine Learning Engineer"
+- ✅ Successfully completed the first week's lessons of the initial module in the "IBM Professional Certification in Machine Learning Engineer"
+- 📝 Thoroughly practiced all assignments and successfully completed all graded quizzes associated with these lessons
+- 📂 Jupyter notebooks used for practice will be uploaded today in the IBM Courses folder within this repository
+
+### Day 7 – Advanced Pandas & Projects (25th-Feb-2025)
+- ✅ Successfully completed the first sub-module of the "Data Visualization with Python" module, which is part of the IBM Data Analyst Professional Certification Course on Coursera
+- 🏅 Successfully finished the "Matplotlib with Python" certification course on Intellipath, which is now pending evaluation
+- 📂 Data Visualization assignment Jupyter notebook files have been uploaded to the IBM Courses folder within this repository
+- 📂 Matplotlib practice Jupyter notebook files, created while completing the Intellipath course, have been uploaded to the Intellipath folder within this repository
