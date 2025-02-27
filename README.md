@@ -65,3 +65,23 @@ Now, I am switching my career to Artificial Intelligence and Machine Learning. I
 - 🏅 Successfully finished the "Matplotlib with Python" certification course on Intellipath, which is now pending evaluation
 - 📂 Data Visualization assignment Jupyter notebook files have been uploaded to the IBM Courses folder within this repository
 - 📂 Matplotlib practice Jupyter notebook files, created while completing the Intellipath course, have been uploaded to the Intellipath folder within this repository
+
+
+### Day 8 – IBM Data Analyst Professional Certificate (26th-Feb-2025)
+- 📊 Completed several modules in the IBM Professional Data Analyst course.
+  - 📈 Data Visualization with Python: Completed some modules.
+  - 📊 Introduction to Data Analytics: Module completed.
+  - 📊 Excel Basics: Completed 3 modules.
+
+### Day 9 – Python for Data Science and AI (27th-Feb-2025)
+- 🐍 Completed various topics in the "Python for Data Science and AI" course as part of the IBM Professional Data Analyst curriculum.
+  - 📝 Python Basics: Covered data types, variables.
+  - 🗃️ Python Data Structures: Completed Tuples, Lists, Sets, and Dictionaries.
+  - 🔄 Python Functions, Loops, Conditional Branching, Exception Handling, Classes, and Objects covered.
+  - 💯 Completed all practice labs and graded exams also.
+  - 📂 Uploaded all practice files to the repository under the IBM Courses folder.
+
+## Future Plans
+- Continue with IBM Data Analytics Professional Certificate.
+- Start learning about machine learning algorithms.
+- Apply the knowledge in real-world projects.
