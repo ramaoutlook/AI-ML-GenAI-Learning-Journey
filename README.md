@@ -126,11 +126,8 @@ Now I'm switching my career to **Artificial Intelligence, Machine Learning, and 
 
 
 ## Future Roadmap 🔥
-- Continue with **IBM Data Analyst Professional Certification**  
-- Start learning **Machine Learning Algorithms**  
-- Practice **Real-World Projects with Data Science + AI**  
-- Enroll in **Google Cloud, AWS, Azure, NVIDIA Certifications**  
-- Build AI Projects in **NLP, Computer Vision & Generative AI**  
+- Continue with **IBM Data Analyst Professional Certification (Data Analysis with Python Module)**  
+- Start learning **Machine Learning Model Development Basics and Scikit learn etc and ML Algorithms**  
 
 ---
 
