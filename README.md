@@ -131,6 +131,20 @@ Now I'm switching my career to **Artificial Intelligence, Machine Learning, and 
 
 ---
 
+### Day 12 - Python Project for Data Science Module Completed as part of IBM Data Analyst Professional Certificate (2025-03-02)
+
+**Achievements:**
+
+- **Completed**: Python Project for Data Science module from IBM Data Analyst Professional Certification.
+- **Worked On**: Stock market data analysis using Pandas, Matplotlib, and Plotly.
+- **Created**: Interactive visualizations to analyze historical stock prices and revenue.
+- **Uploaded**: Successfully uploaded the project notebook to my GitHub repository.
+
+**Reflection:**
+
+- Feeling confident in Python data manipulation and visualization.
+
+----
 
 
 ## Connect with Me 🔗
