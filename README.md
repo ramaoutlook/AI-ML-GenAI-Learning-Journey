@@ -146,6 +146,69 @@ Now I'm switching my career to **Artificial Intelligence, Machine Learning, and 
 
 ----
 
+## 🚀 Day 13 - **3 Modules** of the **IBM Data Analysis with Python**  -  AI/ML/GenAI Learning Journey
+### Date: 2025-03-03
+
+### Today's Progress
+Today, I have successfully completed **3 Modules** of the **IBM Data Analysis with Python** Course as part of the **IBM Data Analyst Professional Certification** on Coursera.
+
+**Course Link:** [IBM Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python/)
+
+### Completed Modules 📌
+1. **Importing Data Sets**
+   - Understanding Data
+   - Pandas Usage
+   - Import and Export Data
+   - Analyzing Data with Python
+   - Accessing Databases with Python
+
+2. **Data Wrangling**
+   - Dealing with Missing Values
+   - Data Formatting
+   - Preprocessing Data in Python
+   - Data Normalization in Python
+   - Binning in Python
+   - Turning Categorical Variables into Quantitative Variables
+
+3. **Exploratory Data Analysis**
+   - Descriptive Statistics
+   - `groupby()` in Python
+   - Correlation
+   - Correlation - Statistics and Practice Labs
+   - Graded Exams Passed ✅
+
+### Practice Files 📄
+- All practice `.ipynb` files and **Cheat Sheets** are uploaded to my local folder and committed to this repository.
+
+### What Next 🔥
+👉 Remaining 3 Modules:
+- Model Development
+- Model Evaluation and Refinement
+- Final Assignment
+
+### Doubts & Questions Added Today 💪
+| Question                           | Solution                | Platform          |
+|------------------------------------|-----------------------|-----------------|
+| ValueError: data type `<class 'numpy.object_'>` not inexact | Convert column datatype using `.astype(float)` | README Q&A Section 🔥 |
+
+### Daily Cheat Sheet 📄
+Today's Cheat Sheet is automatically generated ✅ with the **Rama AI World 🌍 Digital Branding Automation System** and uploaded to the `CheatSheets` folder.
+
+### Social Media Posts ✅
+- LinkedIn 🌐: Scheduled at 9:30 PM IST
+- X (Twitter) 🐦: Scheduled at 9:30 PM IST
+- Instagram 📸: Scheduled at 9:30 PM IST
+
+---
+
+### Today's Hashtags 🔥
+`#RamaAIWorld 🌍🚀`  `#AIEngineer2025`  `#DataAnalyticsToAI`  `#100DaysOfAI`  `#GenAIEngineer2025`  `#IBMDataAnalystProfessionalCertification`  `#AICloudEngineer2025`
+
+---
+### Thank You 🙏
+With Each Day, I'm Moving Closer to My Dream of Becoming a **World-Class AI/ML/GenAI Engineer 🌍🚀**.
+
+Stay Tuned for More Updates 🔥💪!
 
 ## Connect with Me 🔗
 📌 GitHub: [AI-ML-GenAI-Learning-Journey](https://github.com/ramaoutlook/AI-ML-GenAI-Learning-Journey)  
