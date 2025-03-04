@@ -191,24 +191,57 @@ Today, I have successfully completed **3 Modules** of the **IBM Data Analysis wi
 |------------------------------------|-----------------------|-----------------|
 | ValueError: data type `<class 'numpy.object_'>` not inexact | Convert column datatype using `.astype(float)` | README Q&A Section 🔥 |
 
-### Daily Cheat Sheet 📄
-Today's Cheat Sheet is automatically generated ✅ with the **Rama AI World 🌍 Digital Branding Automation System** and uploaded to the `CheatSheets` folder.
-
-### Social Media Posts ✅
-- LinkedIn 🌐: Scheduled at 9:30 PM IST
-- X (Twitter) 🐦: Scheduled at 9:30 PM IST
-- Instagram 📸: Scheduled at 9:30 PM IST
-
 ---
 
-### Today's Hashtags 🔥
 `#RamaAIWorld 🌍🚀`  `#AIEngineer2025`  `#DataAnalyticsToAI`  `#100DaysOfAI`  `#GenAIEngineer2025`  `#IBMDataAnalystProfessionalCertification`  `#AICloudEngineer2025`
 
 ---
 ### Thank You 🙏
 With Each Day, I'm Moving Closer to My Dream of Becoming a **World-Class AI/ML/GenAI Engineer 🌍🚀**.
 
-Stay Tuned for More Updates 🔥💪!
+-----
+## 🚀 Day 14 - 2 Modules of the IBM Data Analysis with Python
+## 🚀 Day 14 - **2 Modules** of the **IBM Data Analysis with Python Course** as part of the **IBM Data Analyst Professional Certification** on Coursera.
+### AI/ML/GenAI Learning Journey
+**Date:** 2025-03-04
+
+---
+### Completed Modules 🎯
+#### 1. Model Development
+- Simple Linear Regression
+- Multiple Linear Regression
+- Model Evaluation Using Visualization
+- Polynomial Regression and Pipelines
+- Measures for In-Sample Evaluation
+- Prediction and Decision Making
+
+#### 2. Model Evaluation and Refinement
+- Model Evaluation
+- Over-fitting, Under-fitting and Model Selection
+- Ridge Regression
+- Grid Search
+- Model Refinement
+
+---
+### Practice Files 📄
+All practice `.ipynb` files and **Daily Cheat Sheets** 📄 are uploaded to my local folder and committed to this repository.
+
+📌 Path: `AI-ML-GenAI-Learning-Journey/IBM_Data_Analyst_Certification/`
+
+---
+### Doubts & Questions Added Today 💪
+| Question                                             | Solution                                                                   | Platform               |
+|--------------------------------------------------|--------------------------------------------------------------------------|-----------------------|
+| How to interpret the R-squared value in model evaluation? | R-squared represents the proportion of variance in the dependent variable that can be predicted from the independent variable(s). A higher R-squared value indicates a better fit. | README Q&A Section 🔥 |
+| How does Ridge Regression address overfitting?      | Ridge Regression adds a penalty term to the cost function, which shrinks the coefficients of less important features, reducing model complexity and preventing overfitting. | README Q&A Section 🔥 |
+
+---
+
+#RamaAIWorld 🌍🚀 #AIEngineer2025 #DataAnalyticsToAI #100DaysOfAI #GenAIEngineer2025 #IBMDataAnalystProfessionalCertification #AICloudEngineer2025
+
+---
+🎯 Consistency is the Key 🔑 to Success!
+
 
 ## Connect with Me 🔗
 📌 GitHub: [AI-ML-GenAI-Learning-Journey](https://github.com/ramaoutlook/AI-ML-GenAI-Learning-Journey)  
