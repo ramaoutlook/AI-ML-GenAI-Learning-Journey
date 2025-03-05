@@ -235,6 +235,49 @@ All practice `.ipynb` files and **Daily Cheat Sheets** 📄 are uploaded to my l
 | How to interpret the R-squared value in model evaluation? | R-squared represents the proportion of variance in the dependent variable that can be predicted from the independent variable(s). A higher R-squared value indicates a better fit. | README Q&A Section 🔥 |
 | How does Ridge Regression address overfitting?      | Ridge Regression adds a penalty term to the cost function, which shrinks the coefficients of less important features, reducing model complexity and preventing overfitting. | README Q&A Section 🔥 |
 
+## 📅 Day 15: AI/ML/GenAI Learning Journey - 2025-03-05
+
+### 🎯 Today's Progress
+
+Today, I dedicated my time to revisiting all the important concepts learned in the **Data Analysis with Python** course before giving the **Final Exam**.
+
+I have thoroughly reviewed the following key topics:
+
+- ✅ Data Loading
+- ✅ Data Preprocessing
+- ✅ Data Wrangling
+
+Additionally, I have successfully completed a **Basic Scikit-Learn Course** on the **Simplilearn** platform to strengthen my machine learning model building skills.
+
+I have also reviewed all my **Jupyter Notebook practice codes** related to the above topics for better understanding and knowledge retention.
+
+### 🔥 Tools & Libraries Practiced Today
+- Pandas
+- NumPy
+- Scikit-Learn
+
+### 📌 GitHub Repository
+All my practice codes have been uploaded to my GitHub Repository:
+👉 https://github.com/ramaoutlook/AI-ML-GenAI-Learning-Journey
+
+---
+### 🧠 Today's Unique Doubts Resolved
+| Question                                 | Solution Available in |
+|---------------------------------------------|-----------------------|
+| How to find the most frequent value in a DataFrame column using `loc()`? | README Q&A Section ✅ |
+| How to count missing values in a DataFrame column? | README Q&A Section ✅ |
+| How to convert column datatype to float with NaN handling? | README Q&A Section ✅ |
+
+---
+### 💪 Consistent Progress
+This daily consistency is bringing me one step closer to becoming a **World-Class AI/ML/GenAI Engineer Specialist 🌍**.
+
+---
+### Let's Connect 🌐
+If you're a fellow AI/ML learner, HR professional, or AI industry leader — I would love to connect with you!
+
+📌 LinkedIn: [ramakrishna-aiml](https://www.linkedin.com/in/ramakrishna-aiml)
+
 ---
 
 #RamaAIWorld 🌍🚀 #AIEngineer2025 #DataAnalyticsToAI #100DaysOfAI #GenAIEngineer2025 #IBMDataAnalystProfessionalCertification #AICloudEngineer2025
