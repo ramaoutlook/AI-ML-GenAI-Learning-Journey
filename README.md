@@ -200,7 +200,6 @@ Today, I have successfully completed **3 Modules** of the **IBM Data Analysis wi
 With Each Day, I'm Moving Closer to My Dream of Becoming a **World-Class AI/ML/GenAI Engineer 🌍🚀**.
 
 -----
-## 🚀 Day 14 - 2 Modules of the IBM Data Analysis with Python
 ## 🚀 Day 14 - **2 Modules** of the **IBM Data Analysis with Python Course** as part of the **IBM Data Analyst Professional Certification** on Coursera.
 ### AI/ML/GenAI Learning Journey
 **Date:** 2025-03-04
@@ -271,6 +270,47 @@ All my practice codes have been uploaded to my GitHub Repository:
 ---
 ### 💪 Consistent Progress
 This daily consistency is bringing me one step closer to becoming a **World-Class AI/ML/GenAI Engineer Specialist 🌍**.
+---
+## Day 16: Rama AI World 🌍 - Daily Progress Journey
+
+### ✅ Today's Progress
+
+Today, I successfully completed the **Data Analysis with Python** course as part of the **IBM Data Analyst Professional Certification** on Coursera. I received the **Coursera Badge** for completing this module.
+
+### 🧠 What I Learned Today
+- Final Assignment Completion
+- Polynomial Regression and Pipelines
+- Grid Search and Cross Validation
+- Ridge Regression
+- Model Development and Evaluation using Scikit-Learn
+- Visualization of Residuals with Matplotlib
+- Histogram Distribution of Residuals
+
+### 🎯 Resources Practiced
+- Jupyter Notebook Labs
+- Practice Labs provided by IBM
+- Coursera Cheatsheets
+
+### 🔥 Unique Doubts / Errors I Encountered
+| Doubt / Error               | How I Fixed It                                              |
+|-----------------------------|----------------------------------------------------------|
+| df.corr() TypeError         | Converted data type using `pd.to_numeric()` before applying `df.corr()` |
+| PolynomialFeatures Output Shape Mismatch | Reshaped data with `.reshape(-1, 1)` before applying `PolynomialFeatures()` |
+
+### 📌 Badge Earned Today
+- [Coursera Data Analysis with Python Badge](https://coursera.org/share/f0721058fef08809527d0b87355afe79)
+
+### 🔗 GitHub Repository
+https://github.com/ramaoutlook/AI-ML-GenAI-Learning-Journey
+
+### 🎥 Bug Crushed Series Video
+- How to fix `df.corr()` TypeError: [Watch on YouTube](https://www.youtube.com/watch?v=ihT5SJrgqMo)
+
+---
+
+**#100DaysOfAI #DataAnalysisWithPython #IBMCertification #GenerativeAI #PythonForAI #RamaAIWorld 🌍**
+
+
 
 ---
 ### Let's Connect 🌐
