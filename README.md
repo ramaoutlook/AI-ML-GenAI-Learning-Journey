@@ -236,8 +236,6 @@ All practice `.ipynb` files and **Daily Cheat Sheets** 📄 are uploaded to my l
 
 ## 📅 Day 15: AI/ML/GenAI Learning Journey - 2025-03-05
 
-### 🎯 Today's Progress
-
 Today, I dedicated my time to revisiting all the important concepts learned in the **Data Analysis with Python** course before giving the **Final Exam**.
 
 I have thoroughly reviewed the following key topics:
@@ -271,9 +269,7 @@ All my practice codes have been uploaded to my GitHub Repository:
 ### 💪 Consistent Progress
 This daily consistency is bringing me one step closer to becoming a **World-Class AI/ML/GenAI Engineer Specialist 🌍**.
 ---
-## Day 16: Rama AI World 🌍 - Daily Progress Journey
-
-### ✅ Today's Progress
+### Day 16: ## ✅ Today's Progress **Date:** 2025-03-06
 
 Today, I successfully completed the **Data Analysis with Python** course as part of the **IBM Data Analyst Professional Certification** on Coursera. I received the **Coursera Badge** for completing this module.
 
@@ -307,20 +303,18 @@ https://github.com/ramaoutlook/AI-ML-GenAI-Learning-Journey
 - How to fix `df.corr()` TypeError: [Watch on YouTube](https://www.youtube.com/watch?v=ihT5SJrgqMo)
 
 ---
+## 🚀 Day 17 - **3 Modules completed** of the **Data Visualization with Python** as part of the **IBM Data Analyst Professional Certification** on Coursera.
+### AI/ML/GenAI Learning Journey
+**Date:** 2025-03-07
 
-**#100DaysOfAI #DataAnalysisWithPython #IBMCertification #GenerativeAI #PythonForAI #RamaAIWorld 🌍**
+### Topics Covered:
+Introduction to Visualization Tools, Matplotlib basics, Line Plots, Area Plots, Histograms, Bar Charts, Pie Charts, Box Plots, Scatter Plots, Waffle Charts, Word Clouds, Seaborn Regression Plots, Folium Maps, Choropleth Maps
 
+### Tools & Libraries:
+Matplotlib, Seaborn, Folium, WordCloud, Pandas, NumPy
 
-
----
-### Let's Connect 🌐
-If you're a fellow AI/ML learner, HR professional, or AI industry leader — I would love to connect with you!
-
-📌 LinkedIn: [ramakrishna-aiml](https://www.linkedin.com/in/ramakrishna-aiml)
-
----
-
-#RamaAIWorld 🌍🚀 #AIEngineer2025 #DataAnalyticsToAI #100DaysOfAI #GenAIEngineer2025 #IBMDataAnalystProfessionalCertification #AICloudEngineer2025
+### Bug Crushed 🔥:
+X-Axis Label Overlapping, Explode Pie Chart slices, Title & Legend Overlapping in Pie Charts
 
 ---
 🎯 Consistency is the Key 🔑 to Success!
@@ -334,3 +328,8 @@ If you're a fellow AI/ML learner, HR professional, or AI industry leader — I w
 
 ### If you're an **AI Hiring Manager, HR, or Tech Lead** working on AI projects — Let's Connect!  
 I am on a mission to become a **Certified AI Cloud Engineer by 2025 🚀💪**
+
+## Day 17 - AI/ML/GenAI Learning Journey 🚀
+### Date: 7th March 2025
+
+### Day 17 Progress - Completed 3 modules of **Data Visualization with Python** (IBM Data Analyst Certification)
