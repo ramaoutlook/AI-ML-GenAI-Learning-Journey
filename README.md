@@ -303,7 +303,7 @@ https://github.com/ramaoutlook/AI-ML-GenAI-Learning-Journey
 - How to fix `df.corr()` TypeError: [Watch on YouTube](https://www.youtube.com/watch?v=ihT5SJrgqMo)
 
 ---
-## 🚀 Day 17 - **3 Modules completed** of the **Data Visualization with Python** as part of the **IBM Data Analyst Professional Certification** on Coursera.
+# 🚀 Day 17 - **3 Modules completed** of the **Data Visualization with Python** as part of the **IBM Data Analyst Professional Certification** on Coursera.
 ### AI/ML/GenAI Learning Journey
 **Date:** 2025-03-07
 
@@ -317,8 +317,8 @@ Matplotlib, Seaborn, Folium, WordCloud, Pandas, NumPy
 X-Axis Label Overlapping, Explode Pie Chart slices, Title & Legend Overlapping in Pie Charts
 
 ---
-## 🚀 Day 18: IBM Data Visualization with Python Certification Earned- Completion 🎉  
-# 📅 Date: March 8, 2025  
+# 🚀 Day 18: IBM Data Visualization with Python Certification Earned- Completion 🎉  
+## 📅 Date: March 8, 2025  
 
 As part of the **IBM Data Analyst Professional Certification**, I have successfully completed the **Data Visualization with Python** course. This course has enhanced my ability to create compelling visualizations using Python and various libraries.  
 
@@ -348,15 +348,49 @@ As part of the **IBM Data Analyst Professional Certification**, I have successfu
 ## 🎉 Special Thanks  
 A huge thanks to **Saishruthi and Dr. Pooja** for their insightful teaching and guidance throughout the course! 🙌  
 
+----
+## 📅 Day 19: March 9th, 2025 – Mastering Dashboards & Data Visualization in Excel & Cognos!  
+Today, I focused on **Dashboards and Data Visualization with Excel and Cognos** as part of my **IBM Data Analyst Professional Certification** journey.  
+
+### ✅ What I Learned:  
+- **Pivot Tables & Pivot Charts** in Excel  
+- **Creating Interactive Dashboards** for better data insights  
+- Hands-on **labs & exercises** to reinforce visualization skills  
+
+Data visualization is a crucial skill in analytics, and I'm excited to build **impactful dashboards** that turn data into meaningful stories! 📊  
+
+---
+
+## 📅 Day 20: March 10th, 2025 – Certification Unlocked: Dashboards & Data Visualization!  
+🚀 **Completed the Dashboards and Data Visualization with Excel and Cognos course!**  
+
+### 🎓 Achievements:  
+- Earned **IBM Certification** for this course  
+- Mastered **data visualization techniques** using **Excel & Cognos**  
+- Built **real-world dashboards** for data-driven insights  
+
+This marks another **milestone** in my IBM Data Analyst Professional Certification journey. Looking forward to applying these skills in AI-powered analytics projects!  
+
+---
+
+## 📅 Day 21: March 11th, 2025 – Exploring Generative AI for Data Analytics!  
+Today, I started the **Generative AI: Enhance Your Data Analytics Career** course. This is an exciting step toward **AI-powered data automation**!  
+
+### 🔥 Key Takeaways:  
+- **AI-generated Python code** for analytics & automation  
+- **Auto data cleaning & preparation tools**  
+- **AI-driven data analysis & reporting techniques**  
+
+Tomorrow, I aim to **complete this course** and gain deeper insights into **AI-assisted analytics workflows**! Stay tuned for more updates! 🚀  
+
+---
+
+
 ## 📂 GitHub Repository  
 🔗 Check out my Data Visualization projects and assignments here:  
 [**GitHub AI-ML-GenAI Learning Journey Repository**](https://github.com/ramaoutlook/AI-ML-GenAI-Learning-Journey)  
 
 ---
-
-🚀 **Follow my AI/ML/GenAI learning journey!** More updates, projects, and achievements coming soon! 🚀  
-
-
 
 ## Connect with Me 🔗
 📌 GitHub: [AI-ML-GenAI-Learning-Journey](https://github.com/ramaoutlook/AI-ML-GenAI-Learning-Journey)  
