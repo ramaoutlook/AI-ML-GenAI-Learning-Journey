@@ -385,6 +385,22 @@ Tomorrow, I aim to **complete this course** and gain deeper insights into **AI-a
 
 ---
 
+## 📅 Day 22: March 12th, 2025 – Advancing SQL Skills for Data Science!  
+Today, I successfully completed the **Generative AI: Enhance Your Data Analytics Career** course as part of the **IBM Data Analyst Professional Certification**! 🎉  
+
+📜 **Certificate:** [View Here](https://www.coursera.org/account/accomplishments/verify/FZM02GHE75EP)  
+
+I also started a new course, **Databases and SQL for Data Science with Python**, and made significant progress by completing **2 modules and part of Module 3**.  
+
+### 🔥 Key Takeaways:  
+- **SQL Basics** – Writing queries, filtering data  
+- **GROUP BY & Aggregations** – Summarizing and analyzing data  
+- **SQL Functions** – String, numeric, and date functions  
+- **Joins & Multi-Table Queries** – Combining data effectively  
+
+Tomorrow, I will continue with **advanced SQL topics** and gain hands-on practice with **real-world datasets**! Stay tuned! 🚀
+
+---
 
 ## 📂 GitHub Repository  
 🔗 Check out my Data Visualization projects and assignments here:  
