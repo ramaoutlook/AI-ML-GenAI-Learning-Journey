@@ -408,6 +408,22 @@ Tomorrow, I will continue with **advanced SQL topics** and gain hands-on practic
 ✅ Learned SQL fundamentals, joins, filtering, sorting, grouping, and Python integration.  
 ✅ Practiced SQL queries on real-world datasets. 
 
+---
+# Day 24 (March 14, 2025) - AI/ML/GenAI Learning Journey  
+
+## 🎉 Officially Certified! 🏆  
+
+I am thrilled to share that I have successfully completed the **IBM Data Analyst Professional Certificate**! 🚀  
+
+### ✅ Today's Achievements:
+- Completed all labs and assessments of the **IBM Data Analyst Capstone Project**  
+- Passed the final exam with flying colors 🏆  
+- Earned the **IBM Data Analyst Professional Certificate** 🎓  
+
+With this, I have officially **completed the entire IBM Data Analyst Professional Certification!** This journey has equipped me with essential **data analytics, SQL, Python, and data visualization** skills—key stepping stones toward my AI & ML specialization.  
+
+🔗 **Certificate Link:** [(https://coursera.org/share/22ec22ef61cc097f3264a36d5e14aaa8)]
+
 
 ---
 ## 📂 GitHub Repository  
