@@ -401,7 +401,15 @@ I also started a new course, **Databases and SQL for Data Science with Python**,
 Tomorrow, I will continue with **advanced SQL topics** and gain hands-on practice with **real-world datasets**! Stay tuned! 🚀
 
 ---
+# Day 23 - Databases and SQL for Data Science with Python  
+**Date**: March 13, 2025
+## Today's Progress  
+✅ Completed the **Databases and SQL for Data Science with Python** course (IBM Data Analyst Professional Cert).  
+✅ Learned SQL fundamentals, joins, filtering, sorting, grouping, and Python integration.  
+✅ Practiced SQL queries on real-world datasets. 
 
+
+---
 ## 📂 GitHub Repository  
 🔗 Check out my Data Visualization projects and assignments here:  
 [**GitHub AI-ML-GenAI Learning Journey Repository**](https://github.com/ramaoutlook/AI-ML-GenAI-Learning-Journey)  
@@ -415,5 +423,5 @@ Tomorrow, I will continue with **advanced SQL topics** and gain hands-on practic
 ---
 
 ### If you're an **AI Hiring Manager, HR, or Tech Lead** working on AI projects — Let's Connect!  
-I am on a mission to become a **Certified AI Cloud Engineer by 2025 🚀💪**
+I am on a mission to become a **Certified AI ML Engineer by 2025 🚀💪**
 
