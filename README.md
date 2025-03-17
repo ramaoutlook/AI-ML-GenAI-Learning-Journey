@@ -426,9 +426,22 @@ With this, I have officially **completed the entire IBM Data Analyst Professiona
 
 
 ---
-## 📂 GitHub Repository  
-🔗 Check out my Data Visualization projects and assignments here:  
-[**GitHub AI-ML-GenAI Learning Journey Repository**](https://github.com/ramaoutlook/AI-ML-GenAI-Learning-Journey)  
+# Day 25 (March 15, 2025) - AI/ML/GenAI Learning Journey  
+
+### 🎯 Milestone Unlocked: **Artificial Intelligence on Microsoft Azure** Certification 🏆  
+
+Proud to share that I’ve successfully completed the **Artificial Intelligence on Microsoft Azure** certification from **Microsoft!** 🎉  
+
+## 📌 Key Takeaways:
+- 🔹 Understanding **Azure AI services**  
+- 🔹 Working with **Cognitive Services & ML models**  
+- 🔹 Deploying AI solutions on the cloud  
+- 🔹 Implementing **AI-powered applications** with Microsoft technologies  
+
+This certification strengthens my foundation as I transition from **14+ years of Software Engineering** into the world of **AI, ML, and Generative AI.** 🚀  
+
+
+#AI #MachineLearning #MicrosoftAzure #AzureAI #CloudComputing #ArtificialIntelligence #SoftwareEngineerToAI #LearningInPublic  
 
 ---
 
