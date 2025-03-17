@@ -439,9 +439,29 @@ Proud to share that I’ve successfully completed the **Artificial Intelligence 
 - 🔹 Implementing **AI-powered applications** with Microsoft technologies  
 
 This certification strengthens my foundation as I transition from **14+ years of Software Engineering** into the world of **AI, ML, and Generative AI.** 🚀  
+---
+# 🚀 AI/ML Journey – Day 26 & 27
+
+## 📅 Day 26: March 16, 2025  
+### **Attended Sawan Kapoor's Webinar**  
+Today was all about career strategies! Attended an insightful webinar by **Sawan Kapoor**, who provided a roadmap for career growth.  
+- Explored **8 modules** packed with job search strategies, positioning techniques, and networking insights.  
+- Gained a deeper understanding of **how to navigate career transitions effectively**.  
+
+---
+
+## 📅 Day 27: March 17, 2025  
+### **Started IBM Machine Learning Professional Certification**  
+Today marked the beginning of my **IBM ML Professional Certification** journey!  
+🔍 **Completed:**  
+- **Exploratory Data Analysis (EDA)**: Learning about data visualization, distributions, and feature selection.  
+- **Introduction to Machine Learning & Deep Learning**: Covering fundamentals of ML models, neural networks, and real-world applications.  
+
+📌 **Next Steps:**  
+- Continue diving into supervised and unsupervised learning.  
+- Implement EDA techniques on real-world datasets.  
 
 
-#AI #MachineLearning #MicrosoftAzure #AzureAI #CloudComputing #ArtificialIntelligence #SoftwareEngineerToAI #LearningInPublic  
 
 ---
 
