@@ -410,7 +410,6 @@ Tomorrow, I will continue with **advanced SQL topics** and gain hands-on practic
 
 ---
 # Day 24 (March 14, 2025) - AI/ML/GenAI Learning Journey  
-
 ## 🎉 Officially Certified! 🏆  
 
 I am thrilled to share that I have successfully completed the **IBM Data Analyst Professional Certificate**! 🚀  
@@ -426,8 +425,7 @@ With this, I have officially **completed the entire IBM Data Analyst Professiona
 
 
 ---
-# Day 25 (March 15, 2025) - AI/ML/GenAI Learning Journey  
-
+# Day 25 (March 15, 2025) - AI/ML/GenAI Learning Journey
 ### 🎯 Milestone Unlocked: **Artificial Intelligence on Microsoft Azure** Certification 🏆  
 
 Proud to share that I’ve successfully completed the **Artificial Intelligence on Microsoft Azure** certification from **Microsoft!** 🎉  
@@ -460,11 +458,81 @@ Today marked the beginning of my **IBM ML Professional Certification** journey!
 📌 **Next Steps:**  
 - Continue diving into supervised and unsupervised learning.  
 - Implement EDA techniques on real-world datasets.  
+---
+# Day 28 (March 18, 2025) - AI/ML/GenAI Learning Journey  
+### 🔍 Exploring Data Analysis (EDA)  with Python
+
+Today, I delved into **Exploratory Data Analysis (EDA)** as part of the **IBM Machine Learning Professional Certification** course. The session covered crucial techniques to **understand, clean, and prepare data for machine learning models**.  
+
+## 📌 Key Learnings:
+- 🔹 **Data Cleaning**: Handling missing values, removing duplicates, and standardizing formats  
+- 🔹 **Data Wrangling**: Transforming raw data into a structured format  
+- 🔹 **Feature Engineering**: Creating new features to improve model performance  
+- 🔹 **Data Distribution Analysis**: Understanding skewness, kurtosis, and outliers  
+- 🔹 **Correlation Analysis**: Identifying relationships between variables  
+- 🔹 **Dimensionality Reduction**: Handling high-dimensional data efficiently  
+
+EDA is an essential step in **uncovering insights, spotting trends, and preparing data for AI/ML models.** 🚀  
+---
+# Day 29 (March 19, 2025) - AI/ML/GenAI Learning Journey  
+### 📊 Strengthening My Statistics & Data Visualization Skills  
+
+While performing **EDA**, I realized that I need to reinforce my **statistics fundamentals and data visualization skills in Python**. To bridge this gap, I’ve started revisiting **statistics from scratch** using the **Udemy course**:  
+📚 **"Complete Data Science, Machine Learning, DL, NLP Bootcamp" by Krish Naik.**  
+
+## 📌 Key Topics I'm Revisiting:
+- 🔹 **Descriptive Statistics**: Mean, median, mode, variance, and standard deviation  
+- 🔹 **Inferential Statistics**: Hypothesis testing, p-values, confidence intervals  
+- 🔹 **Probability Distributions**: Normal, binomial, Poisson distributions  
+
+## Tomorrow's Plan
+- 🔹 **Data Visualization**: Matplotlib & Seaborn basics for effective data representation  
+- 🔹 **Statistical Insights in EDA**: Understanding how statistics drive feature selection & model performance  
+
+This deep dive into statistics will **strengthen my AI/ML foundation** as I continue my transition into AI/ML/GenAI. 🚀  
+---
+# Day 30: AI/ML Learning Journey 🚀  
+📅 **Date:** 20th March 
+## 🎯 Pre-Preparation for APEX POWER UP LIVE  
+ 
+📍 **Focus:** Completing 8 hours of prerequisite videos before the 3-day webinar.  
+
+### 🔹 Why Pre-Preparation Matters?  
+- Ensures a **strong foundation** before attending live sessions.  
+- Increases **engagement and understanding** during the event.  
+- Helps apply insights more **effectively** to career transitions.  
+- Optimizes **learning efficiency** and knowledge retention.  
+
+### 🚀 Ready for the Next Step:  
+Now equipped with the foundational knowledge, I’m all set to dive into the **3-day intensive program** on career transitions!  
+
+📌 Stay tuned for more updates as I progress toward my AI/ML career! 🚀  
+
+#AI #MachineLearning #CareerSwitch #JobSearch #Networking #GenAI #CareerGrowth #ProfessionalDevelopment 
+---
+ # Day 31: AI/ML Learning Journey 🚀  
+
+## 📅 Event: APEX POWER UP LIVE  a 3 Full Day Webinar
+🗓 **Date:** 21st March - Day1
+📍 **Focus:** How to switch jobs in a structured and strategic way  
+
+### 🔹 Key Learnings:  
+- **Presenting experience effectively** to match the expectations of the new role.  
+- **Networking smartly** to access hidden job opportunities.  
+- **Engaging with recruiters & hiring managers** the right way.  
+- **Building a strong personal brand** for job transition success.  
+
+### 🎯 Progress Towards AI/ML Career:  
+I’m not just learning **technical skills** but also mastering **career strategies** to secure the right opportunity in AI/ML/GenAI. 
+
+#AI #MachineLearning #CareerSwitch #JobSearch #Networking #GenAI #CareerGrowth
+---
+
+
 
 
 
 ---
-
 ## Connect with Me 🔗
 📌 GitHub: [AI-ML-GenAI-Learning-Journey](https://github.com/ramaoutlook/AI-ML-GenAI-Learning-Journey)  
 📌 LinkedIn: [Rama Krishna](https://www.linkedin.com/in/rama-krishna-ai-ml-genai/)  
