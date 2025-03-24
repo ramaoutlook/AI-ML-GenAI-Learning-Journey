@@ -510,10 +510,10 @@ Now equipped with the foundational knowledge, I’m all set to dive into the **3
 
 #AI #MachineLearning #CareerSwitch #JobSearch #Networking #GenAI #CareerGrowth #ProfessionalDevelopment 
 ---
- # Day 31: AI/ML Learning Journey 🚀  
+ # Day 31, 32: AI/ML Learning Journey 🚀  
 
 ## 📅 Event: APEX POWER UP LIVE  a 3 Full Day Webinar
-🗓 **Date:** 21st March - Day1
+🗓 **Date:** 21st March - Day1 and Day2
 📍 **Focus:** How to switch jobs in a structured and strategic way  
 
 ### 🔹 Key Learnings:  
@@ -527,10 +527,26 @@ I’m not just learning **technical skills** but also mastering **career strateg
 
 #AI #MachineLearning #CareerSwitch #JobSearch #Networking #GenAI #CareerGrowth
 ---
+# AI/ML Learning Journey 🚀  
+## **Day 33: Career Growth Masterclass (March 23, 2025)**  
+Attended the final day of Sawan Kapoor’s **Career Mastery Program** and learned key insights on:  
+- 🔹 **Positioning yourself as a high-value AI/ML professional**  
+- 🔹 **Tapping into unposted AI/ML job opportunities**  
+- 🔹 **Networking with hiring managers & recruiters**  
+- 🔹 **Mastering salary negotiations in AI roles**  
 
+🔥 **Key takeaway:** The AI job market rewards **strategic branding & smart positioning.**  
+---
 
+# AI/ML Learning Journey 🚀  
+## **Day 34: Power BI for AI/ML (March 24, 2025)**  
+Started **Module 2: Harnessing the Power of Data with Power BI** to enhance AI/ML capabilities:  
+- 📊 **Data visualization & storytelling**  
+- 🧮 **Advanced DAX functions**  
+- 🔗 **Data transformation for AI models**  
+- 💡 **Real-world applications in AI/ML**  
 
-
+🎯 **2025 Goal:** Become an **AI/ML powerhouse with world-class data analytics & visualization skills!**  
 
 ---
 ## Connect with Me 🔗
