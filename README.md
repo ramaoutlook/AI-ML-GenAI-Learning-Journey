@@ -547,6 +547,22 @@ Started **Module 2: Harnessing the Power of Data with Power BI** to enhance AI/M
 - 💡 **Real-world applications in AI/ML**  
 
 🎯 **2025 Goal:** Become an **AI/ML powerhouse with world-class data analytics & visualization skills!**  
+---
+# AI/ML Learning Journey - 
+## ** Day 35  📅 March 25, 2025  **
+
+### 📊 Learning Progress  
+Completed:  
+- **Preparing Data for Analysis with Microsoft Excel**  
+- **Harnessing the Power of Data with Power BI** (Partially)  
+
+### 🔍 Key Takeaways  
+- **Data Cleaning & Transformation**: Ensuring accurate AI-driven insights  
+- **Data Models & Relationships**: Structuring datasets for better analytics  
+- **Power Query**: Automating data processing for efficiency  
+- **Interactive Reports**: Visualizing raw data into meaningful insights  
+
+💡 *Data preparation is the foundation of AI/ML success. The better the data, the smarter the AI!*  
 
 ---
 ## Connect with Me 🔗
