@@ -565,6 +565,22 @@ Completed:
 💡 *Data preparation is the foundation of AI/ML success. The better the data, the smarter the AI!*  
 
 ---
+# 🚀 Day 36 | AI/ML Learning Journey | March 26, 2025  
+
+## 📜 Certificates Achievements  
+- ✅ **Completed:** Preparing Data for Analysis with Microsoft Excel  
+- ✅ **Completed:** Harnessing the Power of Data with Power BI  
+
+## 📊 Progress  
+- **Started:** ETL Data in Power BI Module (20% Completed)  
+
+## 🔍 Key Learnings  
+- ✅ **Data Cleaning & Transformation** – Preparing raw data for AI & BI insights  
+- ✅ **Power Query & Data Modeling** – Structuring data for advanced analytics  
+- ✅ **Data Visualization Techniques** – Communicating insights with impactful dashboards  
+- ✅ **ETL in Power BI** – Extracting, transforming & loading data efficiently  
+
+---
 ## Connect with Me 🔗
 📌 GitHub: [AI-ML-GenAI-Learning-Journey](https://github.com/ramaoutlook/AI-ML-GenAI-Learning-Journey)  
 📌 LinkedIn: [Rama Krishna](https://www.linkedin.com/in/rama-krishna-ai-ml-genai/)  
