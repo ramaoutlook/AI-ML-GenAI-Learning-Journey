@@ -601,7 +601,27 @@ If you're looking for a **Data & AI professional skilled in Power BI, ETL, and M
 💬 **Who else is optimizing their ETL workflows for AI-driven analytics?** Drop your thoughts below! 🚀  
 
 ---
+# 🚀 Day 40 | AI/ML Learning Journey | March 31, 2025  
 
+## 📚 Enrolled in Andrew Ng’s Machine Learning Specialization  
+
+I have embarked on the **Machine Learning Specialization by Andrew Ng** on Coursera and completed **50% of the first module: Supervised Machine Learning**. This module covers fundamental ML concepts that power predictive models.  
+
+### 🔍 Key Learnings:  
+- **Linear Regression** – Understanding the relationship between input and output variables.  
+- **Cost Function (Mean Squared Error)** – A performance metric for model accuracy.  
+- **Gradient Descent** – Optimizing the model iteratively by minimizing errors.  
+- **Feature Scaling** – Improving training efficiency through normalization.  
+
+## 💡 Insight:  
+Gradient Descent is more than just an optimization technique—it’s a **life philosophy**. Small, consistent steps toward improvement lead to remarkable success.  
+
+### 🚀 What's Next?  
+I am excited to continue mastering ML concepts and apply them to **AI-driven automation and solutions**.  
+
+📌 Have you explored Machine Learning algorithms? What was your biggest "Aha!" moment? Share your thoughts!  
+
+---
 ## Connect with Me 🔗
 📌 GitHub: [AI-ML-GenAI-Learning-Journey](https://github.com/ramaoutlook/AI-ML-GenAI-Learning-Journey)  
 📌 LinkedIn: [Rama Krishna](https://www.linkedin.com/in/rama-krishna-ai-ml-genai/)  
