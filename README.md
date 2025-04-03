@@ -620,6 +620,58 @@ Gradient Descent is more than just an optimization technique—it’s a **life p
 I am excited to continue mastering ML concepts and apply them to **AI-driven automation and solutions**.  
 
 📌 Have you explored Machine Learning algorithms? What was your biggest "Aha!" moment? Share your thoughts!  
+---
+# Day 41 | AI/ML Learning Journey | April 1, 2025
+
+## 🎯 Big Milestone Achieved!  
+Completed the **Supervised Machine Learning: Regression and Classification** module from the Machine Learning Specialization by **Andrew Ng (Stanford & DeepLearning.AI)**. Earned a certificate! 🏆  
+
+## 🔍 Key Learnings:
+- **Linear Regression** – Predicting continuous values.  
+- **Cost Function (MSE)** – Measuring model accuracy.  
+- **Gradient Descent** – Optimizing parameters for best fit.  
+- **Feature Normalization** – Improving training efficiency.  
+- **Logistic Regression** – Classifying discrete outcomes.  
+- **Sigmoid Function** – Converting scores to probabilities.  
+- **Overfitting & Underfitting** – Balancing model performance.  
+
+## 💡 Key Insight:  
+Mathematical intuition is the backbone of ML models. **Gradient Descent optimizes predictions, and Sigmoid Function refines probability outputs**, shaping how AI makes decisions.  
+
+## 🚀 Next Steps:  
+Advancing towards **AI Solution Architecture, AI Product Development, and AI Automation**. Excited for the journey ahead!  
+
+---
+📜 **Certificate Earned:** [View Here](https://lnkd.in/dE7-ixmP)
+
+---
+# 🚀 Day 42 | AI/ML Learning Journey | April 2, 2025
+
+## 📊 Mastering Neural Networks – The Math & Code Behind AI!
+
+### 🔍 Key Learnings:
+- ✅ **Neural Networks from Scratch** – Manually computed forward & backward propagation without TensorFlow.
+- ✅ **TensorFlow Implementation** – Transitioned from theory to practice by solving NN problems.
+- ✅ **Breaking Down AI's Black Box** – Understood how hidden layers, weights, and activations work behind the scenes.
+- ✅ **Real-World AI Impact** – How these fundamental calculations power deep learning applications in vision, NLP, and beyond.
+
+### 💡 Takeaway:
+Understanding neural networks mathematically before implementing them in TensorFlow helped me grasp AI fundamentals on a deeper level. Knowing the math ensures I don’t just use libraries—I know what’s happening under the hood! 
+---
+# 🚀 Day 43 | AI/ML Learning Journey | April 3, 2025
+
+## 📊 Exploring Advanced Learning Algorithms!
+
+### 🔍 Key Learnings:
+- ✅ **Neural Networks** – Explored the architecture and functioning, including forward & backward propagation.
+- ✅ **Decision Trees & Ensemble Methods** – Understood decision trees and how ensemble methods (random forests, boosting) improve accuracy.
+- ✅ **Regularization Techniques** – Learned how to prevent overfitting for better generalization.
+- ✅ **Practical Implementation** – Applied these algorithms using Python and TensorFlow, bridging theory with real-world applications.
+
+### 💡 Takeaway:
+Mastering these advanced algorithms is crucial for developing robust AI models. This module's hands-on approach deepened my understanding and practical skills.
+
+---
 
 ---
 ## Connect with Me 🔗
