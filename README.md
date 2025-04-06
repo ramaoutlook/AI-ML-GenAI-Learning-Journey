@@ -672,6 +672,19 @@ Understanding neural networks mathematically before implementing them in TensorF
 Mastering these advanced algorithms is crucial for developing robust AI models. This module's hands-on approach deepened my understanding and practical skills.
 
 ---
+### 📅 Day 44 | AI/ML Learning Journey | April 5, 2025
+
+#### 📊 Topic: Machine Learning Algorithms – Foundation Recap with Hands-on Practice
+
+#### 🔍 Key Learnings:
+- Refreshed core ML algorithms: **Regression**, **Classification**, and **Clustering**
+- Practiced hands-on coding while following the **freeCodeCamp Machine Learning course**
+- Rebuilt intuition for **model selection** and **evaluation techniques**
+- Strengthened the bridge between **theoretical understanding** and **practical implementation**
+
+#### 🧠 Insight:
+While progressing through **Module 2** of Andrew Ng’s *Machine Learning Specialization* on Coursera, I realized the importance of reinforcing foundational concepts to fully grasp advanced topics. To solidify my basics, I dedicated time to a structured 4-hour tutorial by freeCodeCamp and completed 2.5 hours of active coding today. This combination helped enhance both my theoretical clarity and coding confidence in ML workflows.
+---
 
 ---
 ## Connect with Me 🔗
