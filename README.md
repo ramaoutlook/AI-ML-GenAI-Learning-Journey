@@ -685,6 +685,48 @@ Mastering these advanced algorithms is crucial for developing robust AI models. 
 #### 🧠 Insight:
 While progressing through **Module 2** of Andrew Ng’s *Machine Learning Specialization* on Coursera, I realized the importance of reinforcing foundational concepts to fully grasp advanced topics. To solidify my basics, I dedicated time to a structured 4-hour tutorial by freeCodeCamp and completed 2.5 hours of active coding today. This combination helped enhance both my theoretical clarity and coding confidence in ML workflows.
 ---
+## 🚀 Day 45 | AI/ML Learning Journey | April 6, 2025
+
+### 📘 Completed Course:
+**Advanced Learning Algorithms**  
+by [Andrew Ng](https://www.coursera.org/learn/advanced-learning-algorithms)  
+Offered by DeepLearning.AI and Stanford University via Coursera
+
+---
+
+### 🔍 Key Learnings from the 4 Modules:
+
+#### 📊 Module 1: Decision Trees
+- Gained mastery over Gini Impurity and Information Gain.
+- Learned splitting strategies for continuous and categorical features.
+- Explored practical criteria for stopping splits in real-world scenarios.
+
+#### 🌲 Module 2: Tree Ensembles
+- Implemented **Random Forests** using bagging and feature randomness.
+- Built multiple decision trees and aggregated predictions.
+- Learned how sampling with replacement adds variance reduction.
+
+#### 📚 Module 3: Boosting
+- Understood **Boosted Trees** and **Gradient Boosting Machines (GBMs)**.
+- Applied additive model strategies to reduce bias.
+- Boosted tree performance by optimizing loss functions iteratively.
+
+#### 🧠 Module 4: Neural Networks
+- Learned forward and backward propagation in depth.
+- Applied **ReLU**, **Sigmoid**, **Softmax** in multi-layered neural nets.
+- Implemented neural networks in TensorFlow for practical problems.
+
+---
+
+### 🎯 Certificate:
+[Verify Here](https://coursera.org/verify/AZ5UD4NZF09B)
+
+---
+
+### 💡 Insight:
+Machine Learning isn’t just about training models. It's about **mastering the math and mechanisms** behind how machines learn and **designing smarter solutions** from the inside out. Every module boosted my AI engineering mindset.
+
+---
 
 ---
 ## Connect with Me 🔗
