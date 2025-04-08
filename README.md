@@ -727,6 +727,25 @@ Offered by DeepLearning.AI and Stanford University via Coursera
 Machine Learning isn’t just about training models. It's about **mastering the math and mechanisms** behind how machines learn and **designing smarter solutions** from the inside out. Every module boosted my AI engineering mindset.
 
 ---
+# Day 46 | AI/ML Learning Journey | April 8, 2025
+
+## 📊 Module Covered:
+**Unsupervised Learning**  
+(Course: Machine Learning Specialization by Andrew Ng)
+
+## 🔍 Key Learnings:
+- Explored **K-Means Clustering** – grouping unlabeled data by finding hidden patterns.
+- Learned how to decide the number of clusters using the **Elbow Method**.
+- Understood **Anomaly Detection** – identifying unusual behavior in data.
+- Realized how unsupervised techniques help in fraud detection, recommendation systems & data compression.
+
+## 💡 Insight:
+Unsupervised Learning empowers machines to find meaning in raw, unlabeled data—an essential skill for building intelligent systems that adapt and evolve.
+
+## 💬 Engagement Prompt:
+Have you ever used clustering or anomaly detection in a real-world project? Would love to hear your experience!
+
+---
 
 ---
 ## Connect with Me 🔗
