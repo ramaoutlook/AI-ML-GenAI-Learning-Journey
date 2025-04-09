@@ -746,6 +746,30 @@ Unsupervised Learning empowers machines to find meaning in raw, unlabeled data�
 Have you ever used clustering or anomaly detection in a real-world project? Would love to hear your experience!
 
 ---
+## 📅 Day 47 | AI/ML Learning Journey | April 9, 2025
+
+### 🎓 Milestone Achieved: Machine Learning Specialization (Stanford University & DeepLearning.AI)
+
+Completed the **Machine Learning Specialization** by **Andrew Ng** via Coursera!
+
+This specialization covered:
+- **Supervised Learning** (Regression & Classification)
+- **Advanced Learning Algorithms**
+- **Unsupervised Learning, Recommender Systems & Reinforcement Learning**
+
+### 🔍 Key Topics Mastered:
+- Linear & Logistic Regression, Cost Minimization
+- Neural Networks, Decision Trees, Ensemble Methods
+- K-Means Clustering, Anomaly Detection
+- Q-Learning, Recommender Systems (Collaborative & Content-Based)
+
+### 🧠 Insight:
+Transitioned from theory to hands-on ML applications. Ready to build scalable ML pipelines and solve real-world AI challenges.
+
+### ✅ Certificate Link:
+[Coursera Verified Certificate](https://lnkd.in/5yuqfmll)
+
+---
 
 ---
 ## Connect with Me 🔗
