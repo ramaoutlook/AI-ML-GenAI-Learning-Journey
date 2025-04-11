@@ -770,6 +770,20 @@ Transitioned from theory to hands-on ML applications. Ready to build scalable ML
 [Coursera Verified Certificate](https://lnkd.in/5yuqfmll)
 
 ---
+# Day 48 - AI/ML Learning Journey 🚀
+
+**Date:** April 10, 2025  
+**Module:** Machine Learning with Python (IBM AI Engineering - Coursera)
+
+## ✅ Key Learnings
+- Supervised vs Unsupervised Learning
+- Regression and Classification basics
+- ML workflow steps and model evaluation
+- Hands-on with Scikit-learn for real-world datasets
+
+📚 Course: IBM AI Engineering Professional Certificate  
+🔗 Platform: Coursera  
+---
 
 ---
 ## Connect with Me 🔗
