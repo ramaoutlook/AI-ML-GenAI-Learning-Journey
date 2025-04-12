@@ -784,6 +784,21 @@ Transitioned from theory to hands-on ML applications. Ready to build scalable ML
 📚 Course: IBM AI Engineering Professional Certificate  
 🔗 Platform: Coursera  
 ---
+# 🚀 Day 49 | AI/ML Learning Journey
+📅 Date: April 11, 2025  
+🎯 Focus: IBM AI Engineer – Module 1 (Machine Learning with Python)
+
+## 📚 Topics Covered
+- Decision Trees (Theory + Practice)
+- Multiclass Classification (One-vs-All, One-vs-One)
+- Logistic Regression
+- Multiple Linear Regression
+- Applied labs with real-world datasets
+
+## 💡 Key Insight
+Scaled up classification from binary to multiclass with strategic approaches, reinforcing how core algorithms adapt to complex problems.
+
+---
 
 ---
 ## Connect with Me 🔗
