@@ -799,6 +799,19 @@ Transitioned from theory to hands-on ML applications. Ready to build scalable ML
 Scaled up classification from binary to multiclass with strategic approaches, reinforcing how core algorithms adapt to complex problems.
 
 ---
+### Day 50 - AI/ML Learning Journey (April 12, 2025)
+
+**Course:** IBM Machine Learning with Python (Coursera)  
+**Progress:** 62% Complete  
+**Topic Covered:** Dimension Reduction Algorithms
+
+**Key Learnings:**
+- Understood the concept and purpose of dimension reduction.
+- Learned how PCA helps eliminate redundant features.
+- Explored how reducing features can improve training speed and prevent overfitting.
+- Observed how data becomes more visualizable in lower dimensions.
+
+Learning continues — building strong foundations for AI/ML engineering.
 
 ---
 ## Connect with Me 🔗
