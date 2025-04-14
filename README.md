@@ -812,6 +812,32 @@ Scaled up classification from binary to multiclass with strategic approaches, re
 - Observed how data becomes more visualizable in lower dimensions.
 
 Learning continues — building strong foundations for AI/ML engineering.
+---
+# Day 51 | AI/ML Learning Journey | April 13, 2025
+
+## 📘 Module:
+**IBM Machine Learning with Python**  
+*Part of the IBM AI Engineer Professional Certificate*
+
+## 🔍 Topics Covered:
+- Introduction to Unsupervised Learning
+- K-Means Clustering Algorithm
+- Evaluating Clusters using Silhouette Score
+- DBSCAN (Density-Based Spatial Clustering)
+- HDBSCAN for robust, hierarchical clustering
+- Dimensionality Reduction:
+  - PCA (Principal Component Analysis)
+  - t-SNE (t-distributed Stochastic Neighbor Embedding)
+  - UMAP (Uniform Manifold Approximation and Projection)
+
+## 💡 Key Insights:
+Unsupervised learning plays a crucial role when labels are not available. Dimensionality reduction techniques like PCA, t-SNE, and UMAP help in visualizing clusters and simplifying complex datasets, making downstream ML tasks more effective.
+
+## 🔗 Course Link:
+[IBM Machine Learning with Python (Coursera)](https://www.coursera.org/learn/machine-learning-with-python)
+
+---
+
 
 ---
 ## Connect with Me 🔗
