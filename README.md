@@ -837,7 +837,23 @@ Unsupervised learning plays a crucial role when labels are not available. Dimens
 [IBM Machine Learning with Python (Coursera)](https://www.coursera.org/learn/machine-learning-with-python)
 
 ---
+## 🌟 Day 52 | AI/ML Learning Journey | April 14, 2025
 
+🎓 Completed: **IBM Machine Learning with Python** (Coursera)  
+📚 Part of: IBM AI Engineer Professional Certificate
+
+### 📊 Key Topics Covered:
+
+✅ Supervised Learning: Linear & Logistic Regression, KNN, SVM, Decision Trees  
+✅ Unsupervised Learning: K-Means, DBSCAN, HDBSCAN, Hierarchical Clustering  
+✅ Dimensionality Reduction: PCA, t-SNE, UMAP  
+✅ Model Evaluation: Accuracy, Precision, Recall, F1 Score, ROC Curve  
+✅ Final Project: Rainfall prediction using historical weather data
+
+### 💡 Insight:
+The course bridges the gap between machine learning theory and practical implementation using Python, scikit-learn, and real-world datasets. It's an excellent stepping stone toward building more advanced AI systems.
+
+---
 
 ---
 ## Connect with Me 🔗
