@@ -854,6 +854,32 @@ Unsupervised learning plays a crucial role when labels are not available. Dimens
 The course bridges the gap between machine learning theory and practical implementation using Python, scikit-learn, and real-world datasets. It's an excellent stepping stone toward building more advanced AI systems.
 
 ---
+# 🚀 Day 53 | AI/ML Learning Journey
+📅 Date: April 15, 2025
+
+## 📘 Module Completed
+**Introduction to Deep Learning & Neural Networks with Keras**  
+🎓 *Certification Earned as part of IBM AI Engineering Professional Certificate*
+
+
+## 🔍 Key Learnings
+- ✅ Learned the core concepts of **Deep Learning** and **Neural Network architecture**
+- ✅ Built and trained **Feedforward Neural Networks** using Keras and TensorFlow
+- ✅ Explored activation functions, loss metrics, and model optimizers
+- ✅ Hands-on labs included:
+  - Training and evaluating models on structured data
+  - Implementing **image captioning** and **summarization** using the **BLIP transformer model**
+
+
+## 💡 Insight of the Day
+> Deep learning enables machines to mimic the human brain in identifying patterns and making decisions—it’s less about coding and more about teaching machines to *think*.
+
+
+## 📸 Today's Highlight
+Generated automatic **image captions and summaries** for aircraft damage dataset images using **BLIP (Bootstrapped Language-Image Pretraining)** – a key milestone in Vision-Language AI!
+
+---
+
 
 ---
 ## Connect with Me 🔗
