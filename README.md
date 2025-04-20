@@ -879,7 +879,37 @@ The course bridges the gap between machine learning theory and practical impleme
 Generated automatic **image captions and summaries** for aircraft damage dataset images using **BLIP (Bootstrapped Language-Image Pretraining)** – a key milestone in Vision-Language AI!
 
 ---
+## 🧠 Day 54 & 55 - AI/ML Learning Journey (April 18–19, 2025)
 
+### 📜 Achievements:
+- 🏅 Earned **Fundamental AI Concepts** badge from [Microsoft Learn](https://learn.microsoft.com/)
+- 📈 Completed **80%** of *Deep Learning with Keras and TensorFlow* module  
+  *(IBM AI Engineer Professional Certificate – Coursera)*
+
+### 🔍 Key Learnings:
+- Understood the foundational principles behind modern AI
+- Explored neural network structures and learning mechanisms
+- Built and trained deep learning models with **Keras**
+- Optimized model performance using **TensorFlow**
+
+> 🚀 *Each step forward is fuel for the AI journey. Stay consistent. Stay curious.*
+---
+## 📅 Day 56 - April 20, 2025
+
+### 🏆 Achievement:
+Earned the **"Introduction to Machine Learning"** badge from [Microsoft Learn](https://learn.microsoft.com/training/)
+
+### 📌 Key Takeaways:
+- Understood the basics of supervised vs. unsupervised learning
+- Differentiated between classification and regression tasks
+- Learned the importance of data splitting and model evaluation
+- Grasped how machine learning models are trained and optimized
+
+### 💡 Reflection:
+This badge marks a foundational milestone in my ML journey. The Microsoft Learn platform makes tough topics digestible and engaging.
+
+⏭️ Looking forward to diving deeper into model evaluation techniques and real-world applications tomorrow!
+---
 
 ---
 ## Connect with Me 🔗
