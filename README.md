@@ -910,6 +910,40 @@ This badge marks a foundational milestone in my ML journey. The Microsoft Learn 
 
 ⏭️ Looking forward to diving deeper into model evaluation techniques and real-world applications tomorrow!
 ---
+## 📅 Day 57 | AI/ML Learning Journey | April 21, 2025
+
+### 🏅 Today's Achievements
+- Earned **2 Microsoft Learn Badges**
+- Reached **99% completion** in *DeepLearning with Keras and TensorFlow* (Coursera - IBM AI Engineer Professional Certificate)
+
+### 🔍 Key Learnings
+- ✅ Built and trained deep neural networks using Keras  
+- ✅ Mastered TensorFlow concepts including callbacks and optimizers  
+- ✅ Worked on real-world tasks like image classification  
+- ✅ Learned best practices for deep learning model optimization
+
+---
+
+> 💡 *Learning never stops. Today was about finishing strong and gearing up for the next module. Each step forward is a leap into the future of AI.*
+---
+# Day 58 & 59 | AI/ML Learning Journey | April 22-23, 2025
+
+📊 **Topic:** Machine Learning Algorithms – Mathematical Foundations & Review
+
+### 🔍 Key Learnings:
+- ✅ Revisiting core ML algorithms from a mathematical perspective  
+- ✅ Strengthening intuition behind models like Linear Regression, Decision Trees, and KNN  
+- ✅ Understanding the algebraic and geometric essence of ML equations  
+- ✅ Clarifying when and why to choose specific algorithms for real-world problems  
+
+### 💡 Insight:
+Going back to the mathematical roots of machine learning algorithms has been enlightening.  
+It’s not just about using libraries — it’s about understanding the **“why”** behind each function call.  
+This depth is what separates **practitioners** from **experts**.
+
+🎧 I'm revisiting these concepts through *Krish Naik’s Complete Data Science, Machine Learning, Deep Learning, NLP Bootcamp* on **Udemy** — a well-crafted journey into the foundations of ML.
+
+---
 
 ---
 ## Connect with Me 🔗
