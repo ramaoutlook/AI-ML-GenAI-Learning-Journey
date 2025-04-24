@@ -945,6 +945,48 @@ This depth is what separates **practitioners** from **experts**.
 
 ---
 
+# 🚀 **Day 60 AI/ML Bootcamp Progress - Krish Naik's Udemy Course**
+
+### 📊 Regression Model Implementation: Polynomial, Ridge, Lasso, ElasticNet
+
+This repository includes a complete regression project where I implemented and compared:
+- **Polynomial Regression**
+- **Ridge Regression**
+- **Lasso Regression**
+- **ElasticNet Regression**
+
+## ✅ Modules Covered
+- Polynomial Regression (Intuition + Code)
+- Building Pipelines in Polynomial
+- Ridge & Lasso Regression
+- ElasticNet for Regularization
+- Cross Validation Techniques
+- EDA and Feature Engineering
+- Feature Selection
+- Model Training and Evaluation
+- Hyperparameter Tuning with GridSearchCV
+
+---
+
+## 🔍 Objective
+Build a regression model that achieves high accuracy using advanced regularization techniques and proper feature engineering.
+
+## 📈 Results
+- Achieved **93% model accuracy**
+- Reduced overfitting using regularization techniques
+- Improved model generalization via cross-validation
+
+---
+
+## 💡 Key Takeaways
+- Feature engineering and preprocessing play a major role in model success.
+- Ridge & Lasso help control model complexity.
+- ElasticNet provides a balanced approach between Ridge and Lasso.
+
+---
+
+
+
 ---
 ## Connect with Me 🔗
 📌 GitHub: [AI-ML-GenAI-Learning-Journey](https://github.com/ramaoutlook/AI-ML-GenAI-Learning-Journey)  
