@@ -966,8 +966,6 @@ This repository includes a complete regression project where I implemented and c
 - Model Training and Evaluation
 - Hyperparameter Tuning with GridSearchCV
 
----
-
 ## 🔍 Objective
 Build a regression model that achieves high accuracy using advanced regularization techniques and proper feature engineering.
 
@@ -976,15 +974,38 @@ Build a regression model that achieves high accuracy using advanced regularizati
 - Reduced overfitting using regularization techniques
 - Improved model generalization via cross-validation
 
----
-
 ## 💡 Key Takeaways
 - Feature engineering and preprocessing play a major role in model success.
 - Ridge & Lasso help control model complexity.
 - ElasticNet provides a balanced approach between Ridge and Lasso.
 
 ---
+# Day 61 - AI/ML Learning Journey 🚀  
+**Date:** April 25, 2025
 
+## 📌 What I did today:
+- Practiced **Regression Model** creation in **Azure Machine Learning Studio Designer**
+- Worked through the **Microsoft Azure Machine Learning** module from Coursera's AI-900 Exam Prep
+
+## 🧠 Key Learnings:
+- Built an ML pipeline using **drag & drop** modules (no coding required)
+- Cleaned raw automobile data
+- Split data for training/testing
+- Trained a **Linear Regression Model**
+- Scored and Evaluated the model successfully
+- All steps executed perfectly (green tick ✅ on each module)
+
+## 📸 Screenshot of Success
+![Regression Model Pipeline in Azure ML](./regression_pipeline_success.png)
+
+## 💡 Insights:
+Azure ML Designer allows visual pipeline construction — great for rapid prototyping and non-coders. A powerful tool for anyone looking to enter the AI/ML world via cloud.
+
+## 🔗 Tools & Platforms:
+- Microsoft Azure Machine Learning Studio
+- Coursera – [AI-900: Microsoft Azure AI Fundamentals](https://www.coursera.org/learn/microsoft-azure-ai-fundamentals)
+
+---
 
 
 ---
