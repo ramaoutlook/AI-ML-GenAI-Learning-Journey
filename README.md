@@ -1006,6 +1006,26 @@ Azure ML Designer allows visual pipeline construction — great for rapid protot
 - Coursera – [AI-900: Microsoft Azure AI Fundamentals](https://www.coursera.org/learn/microsoft-azure-ai-fundamentals)
 
 ---
+# 🚀 Day 62 | AI/ML Learning Journey | April 27, 2025
+
+📸 Built, Trained, and Deployed a Machine Learning Image Classification Model on Microsoft Azure Custom Vision!
+
+🔍 **Key Steps:**
+✅ Created a Custom Vision Resource in [portal.azure.com](https://portal.azure.com/)  
+✅ Uploaded labeled training images (fruit categories) to [CustomVision.ai](https://www.customvision.ai/)  
+✅ Trained the model manually through the website (Iteration 1)  
+✅ Trained the model programmatically using `train-classifier.py` from VS Code (Iteration 2)  
+✅ Published the trained model to Azure to generate an endpoint  
+✅ Installed necessary Python libraries for testing  
+✅ Tested the deployed model with `test-classifier.py` and validated predictions!
+
+💡 **Insight:**
+> Building a machine learning model is just the beginning — **deploying and validating on cloud platforms like Azure** makes you industry-ready!
+
+📖 **Step-by-Step Guide Followed:**
+👉 [Microsoft Learning - Custom Vision Image Classification Deployment](https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/07-custom-vision-image-classification.html)
+
+---
 
 
 ---
