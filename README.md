@@ -1026,7 +1026,32 @@ Azure ML Designer allows visual pipeline construction — great for rapid protot
 👉 [Microsoft Learning - Custom Vision Image Classification Deployment](https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/07-custom-vision-image-classification.html)
 
 ---
+## 🚀 Day 65 | AI/ML Learning Journey | April 30, 2025
 
+### 📊 Microsoft Achievement Unlocked: Generative AI Fundamentals – Transformers
+
+🧠 Today marks a key milestone in my journey — I earned the **"Transformers" badge** from Microsoft Learn!  
+This module deepened my understanding of the architecture that powers modern AI models like ChatGPT, Copilot, and Gemini.
+
+---
+
+### 🔍 Key Learnings:
+- ✅ Transformers outperform older models (like RNNs) by processing words in parallel, not sequentially  
+- ✅ The "attention mechanism" helps the model focus on the most important parts of a sentence  
+- ✅ Positional encoding gives the model a sense of word order  
+- ✅ Transformers are the backbone of powerful applications in text, vision, and more
+
+---
+
+### 💡 Insight:
+**Transformers are not just models—they’re the engine of today’s AI revolution.**  
+Their design unlocks massive efficiency, accuracy, and context-awareness in Generative AI.
+
+---
+
+🏅 **[🔗 View My Microsoft Achievement Badge](https://learn.microsoft.com/api/achievements/share/en-us/RamaKrishna-9380/NV7DBPVF?sharingId=28E4F3FCE776926C)**
+
+---
 
 ---
 ## Connect with Me 🔗
