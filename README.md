@@ -1052,6 +1052,21 @@ Their design unlocks massive efficiency, accuracy, and context-awareness in Gene
 🏅 **[🔗 View My Microsoft Achievement Badge](https://learn.microsoft.com/api/achievements/share/en-us/RamaKrishna-9380/NV7DBPVF?sharingId=28E4F3FCE776926C)**
 
 ---
+## 🚀 Day 64 | AI/ML Learning Journey | April 29, 2025
+
+### 📊 Microsoft Badge Earned: Plan and Prepare to Develop AI Solutions on Azure
+
+🎯 Yesterday, I earned the **“Plan and Prepare to Develop AI Solutions on Azure”** badge from Microsoft Learn!
+
+### 🔍 Key Learnings:
+- Overview of Azure AI services and how to evaluate them for different solution scenarios  
+- Importance of identifying the right data strategy before building AI models  
+- Understanding compliance, security, and ethical considerations in cloud-based AI development  
+- Fundamentals of aligning AI initiatives with real business needs and capabilities
+
+🏅 [View Microsoft Achievement](https://learn.microsoft.com/api/achievements/share/en-us/RamaKrishna-9380/CXW2PJH9?sharingId=28E4F3FCE776926C)
+
+---
 
 ---
 ## Connect with Me 🔗
