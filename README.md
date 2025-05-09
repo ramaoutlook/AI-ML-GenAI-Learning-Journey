@@ -1026,6 +1026,27 @@ Azure ML Designer allows visual pipeline construction — great for rapid protot
 👉 [Microsoft Learning - Custom Vision Image Classification Deployment](https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/07-custom-vision-image-classification.html)
 
 ---
+
+---
+
+🏅 **[🔗 View My Microsoft Achievement Badge](https://learn.microsoft.com/api/achievements/share/en-us/RamaKrishna-9380/NV7DBPVF?sharingId=28E4F3FCE776926C)**
+
+---
+## 🚀 Day 64 | AI/ML Learning Journey | April 29, 2025
+
+### 📊 Microsoft Badge Earned: Plan and Prepare to Develop AI Solutions on Azure
+
+🎯 Yesterday, I earned the **“Plan and Prepare to Develop AI Solutions on Azure”** badge from Microsoft Learn!
+
+### 🔍 Key Learnings:
+- Overview of Azure AI services and how to evaluate them for different solution scenarios  
+- Importance of identifying the right data strategy before building AI models  
+- Understanding compliance, security, and ethical considerations in cloud-based AI development  
+- Fundamentals of aligning AI initiatives with real business needs and capabilities
+
+🏅 [View Microsoft Achievement](https://learn.microsoft.com/api/achievements/share/en-us/RamaKrishna-9380/CXW2PJH9?sharingId=28E4F3FCE776926C)
+
+---
 ## 🚀 Day 65 | AI/ML Learning Journey | April 30, 2025
 
 ### 📊 Microsoft Achievement Unlocked: Generative AI Fundamentals – Transformers
@@ -1048,23 +1069,25 @@ This module deepened my understanding of the architecture that powers modern AI 
 Their design unlocks massive efficiency, accuracy, and context-awareness in Generative AI.
 
 ---
+## 🚀 AI/ML Learning Journey — Day 66 to Day 74 (May 1st–9th)
 
-🏅 **[🔗 View My Microsoft Achievement Badge](https://learn.microsoft.com/api/achievements/share/en-us/RamaKrishna-9380/NV7DBPVF?sharingId=28E4F3FCE776926C)**
+🎉 **Milestone Achieved: Passed Microsoft AI-900 Certification (Azure AI Fundamentals)**
 
----
-## 🚀 Day 64 | AI/ML Learning Journey | April 29, 2025
+Over the past 9 days, I focused on mastering foundational concepts of AI and ML on Microsoft Azure in preparation for the AI-900 exam. Here's what I accomplished:
 
-### 📊 Microsoft Badge Earned: Plan and Prepare to Develop AI Solutions on Azure
+### 📘 Learning Summary
+- Gained deep understanding of **AI workloads**, **ML models**, and **responsible AI principles**
+- Explored **Azure AI services**: Azure ML, Cognitive Services (Vision, Language, Speech), and Azure OpenAI
+- Studied:
+  - Regression, Classification, Clustering, and Deep Learning basics
+  - Generative AI and Ethical AI use cases
 
-🎯 Yesterday, I earned the **“Plan and Prepare to Develop AI Solutions on Azure”** badge from Microsoft Learn!
+### 🧠 Preparation Resources
+- ✅ Completed **Microsoft AI-900 course on Coursera**
+- ✅ Finished all **Udemy AI-900 preparation courses** (with practice exams)
+- ✅ Scored consistently **above 80%** in **Microsoft Learn's official practice tests**
 
-### 🔍 Key Learnings:
-- Overview of Azure AI services and how to evaluate them for different solution scenarios  
-- Importance of identifying the right data strategy before building AI models  
-- Understanding compliance, security, and ethical considerations in cloud-based AI development  
-- Fundamentals of aligning AI initiatives with real business needs and capabilities
-
-🏅 [View Microsoft Achievement](https://learn.microsoft.com/api/achievements/share/en-us/RamaKrishna-9380/CXW2PJH9?sharingId=28E4F3FCE776926C)
+📌 This milestone strengthens my goal to become an AI Engineer with real-world cloud AI experience.
 
 ---
 
