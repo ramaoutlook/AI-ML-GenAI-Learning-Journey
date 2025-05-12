@@ -1,0 +1,1 @@
+https://www.youtube.com/watch?v=yi7KsXtaOCo - Decision tree on scikit learn iris data and titanic dead or survival data
