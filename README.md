@@ -1090,7 +1090,27 @@ Over the past 9 days, I focused on mastering foundational concepts of AI and ML 
 📌 This milestone strengthens my goal to become an AI Engineer with real-world cloud AI experience.
 
 ---
-
+### 🏅 Day 75: Microsoft Azure AI-900 Certification
+- **Achievement**: Successfully passed the AI-900 certification exam.
+- **Preparation Highlights**:
+  - Studied AI fundamentals: content moderation, personalization, computer vision, NLP, document intelligence, and generative AI.
+  - Explored responsible AI principles: fairness, reliability, safety, privacy, transparency, and accountability.
+  - Gained hands-on experience with Azure AI services: Azure Machine Learning, AI Vision, Face Detection, Video Indexer, AI Language, AI Speech, and OpenAI.
+- **Outcome**: Built a strong foundation in cloud-based AI, aligning with goals to contribute to AI-driven transformation projects and startup innovation.
+- 📎 [LinkedIn Post](https://www.linkedin.com/posts/ramakrishna-aiml_ai900-azureai-microsoftcertified-activity-7326501046086746113-giel)
+---
+### 📅 Day 76 - Decision Tree Classification (11-May-2025)
+- Built a Decision Tree Classifier using the Iris dataset.
+- Achieved 97.78% accuracy.
+- Visualized tree using `plot_tree` and Graphviz.
+- Gained insights into feature-based decision-making.
+---
+### 📅 Day 77 - Logistic Regression Classification (12-May-2025)
+- Trained and tuned a Logistic Regression model on the Iris dataset.
+- Compared with Random Forest and SVM classifiers.
+- Logistic Regression Accuracy: 91.11%
+- Random Forest & SVM Accuracy: 97.78%
+- Used metrics like Accuracy, F1-Score, ROC Curve for evaluation.
 ---
 ## Connect with Me 🔗
 📌 GitHub: [AI-ML-GenAI-Learning-Journey](https://github.com/ramaoutlook/AI-ML-GenAI-Learning-Journey)  
