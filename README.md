@@ -1112,6 +1112,33 @@ Over the past 9 days, I focused on mastering foundational concepts of AI and ML 
 - Random Forest & SVM Accuracy: 97.78%
 - Used metrics like Accuracy, F1-Score, ROC Curve for evaluation.
 ---
+### 📅 Day 78 | AI/ML Learning Journey | 13-05-2025
+
+🔍 **Project:** Sentiment Analysis on Amazon Customer Reviews  
+🔗 [GitHub Repo](https://github.com/ramaoutlook/Task2-SentimentAnalysis-With-Amazon-Customer-Review-Data-CodTech-Internship)
+
+**Key Work Done:**
+- Cleaned and preprocessed 50,000+ Amazon review texts
+- Applied **TF-IDF Vectorization**
+- Trained **Logistic Regression** for binary sentiment classification
+- Achieved **89.6% accuracy** on test data
+- Saved trained model with `pickle` for deployment
+
+📌 This project sharpened my NLP, vectorization, and evaluation skills.
+
+#AI #MachineLearning #NLP #SentimentAnalysis #Python #TFIDF #LogisticRegression
+---
+# Day 79 | AI/ML Learning Journey | May 14, 2025
+
+## Image Classification with CNN | CIFAR-10 Dataset
+
+### Key Learnings:
+- Built a deep learning pipeline using Convolutional Neural Networks (CNN) with Keras and TensorFlow.
+- Applied data preprocessing, augmentation, and training with callbacks like EarlyStopping.
+- Developed a multi-layered CNN architecture, including dropout and batch normalization for better generalization.
+- Achieved an accuracy of **[Insert accuracy here]** on the CIFAR-10 test set, demonstrating effective model performance.
+
+---
 ## Connect with Me 🔗
 📌 GitHub: [AI-ML-GenAI-Learning-Journey](https://github.com/ramaoutlook/AI-ML-GenAI-Learning-Journey)  
 📌 LinkedIn: [Rama Krishna](https://www.linkedin.com/in/rama-krishna-ai-ml-genai/)  
