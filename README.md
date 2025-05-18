@@ -1137,6 +1137,63 @@ Over the past 9 days, I focused on mastering foundational concepts of AI and ML 
 - Applied data preprocessing, augmentation, and training with callbacks like EarlyStopping.
 - Developed a multi-layered CNN architecture, including dropout and batch normalization for better generalization.
 - Achieved an accuracy of **[Insert accuracy here]** on the CIFAR-10 test set, demonstrating effective model performance.
+---
+## 📅 Day 82 | AI/ML Learning Journey | May 17, 2025
+
+### 🎮 Project Completed: League of Legends Match Predictor  
+*As part of the IBM AI Engineering Certification (Coursera)*
+
+I completed a hands-on machine learning project where I built a **Logistic Regression model using PyTorch** to predict match outcomes in the game **League of Legends** based on structured game data.
+
+---
+
+### 🔍 Project Overview:
+- Goal: Predict if a team wins or loses based on match statistics.
+- Dataset: `league-of-legends-data-large.csv` (multifeature match-level data)
+- Model: Logistic Regression implemented using `PyTorch`
+
+---
+
+### 🛠️ What I Did:
+- ✅ Loaded and cleaned real-world match data using `pandas`
+- ✅ Split dataset into training/testing using `train_test_split`
+- ✅ Scaled features using `StandardScaler` and converted them into PyTorch tensors
+- ✅ Built a **custom logistic regression model** using `torch.nn.Module`
+- ✅ Trained the model over **1000 epochs** using `SGD` optimizer and `BCELoss`
+- ✅ Evaluated the model using:
+  - Accuracy
+  - Confusion Matrix
+  - ROC Curve and AUC Score
+
+---
+
+### 💡 Key Learnings:
+- Reinforced understanding of **binary classification** with PyTorch
+- Gained experience in **model evaluation** and **training loop mechanics**
+- Solidified practical skills in preprocessing and building end-to-end ML pipelines
+
+---
+
+### 🚀 Impact:
+This project sharpened my PyTorch implementation skills and showed how AI/ML can be applied to real-world domains like gaming analytics. I'm now better prepared for AI/ML roles involving applied machine learning, classification tasks, and PyTorch-based pipelines.
+
+---
+
+---
+## 📅 Day 83 | AI/ML Learning Journey | May 17, 2025
+🎉 I'm excited to share a new milestone in my transition to AI/ML:
+
+### 📜 Completed: `Introduction to Neural Networks and PyTorch` – IBM (Coursera)  
+*A core module from the IBM AI Engineering Professional Certificate*
+---
+### 🔍 Key Learnings:
+- ✅ Understood the architecture of neural networks and how they learn
+- ✅ Built and trained models using **PyTorch tensors** and **autograd**
+- ✅ Mastered **forward and backward propagation**, activation functions, and loss functions
+- ✅ Applied model optimization techniques like **dropout**, **weight initialization**, and **regularization**
+- ✅ Worked on real-world labs—writing PyTorch code to train models from scratch
+
+---
 
 ---
 ## Connect with Me 🔗
