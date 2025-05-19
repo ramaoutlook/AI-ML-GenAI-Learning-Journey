@@ -1138,6 +1138,21 @@ Over the past 9 days, I focused on mastering foundational concepts of AI and ML 
 - Developed a multi-layered CNN architecture, including dropout and batch normalization for better generalization.
 - Achieved an accuracy of **[Insert accuracy here]** on the CIFAR-10 test set, demonstrating effective model performance.
 ---
+# AI/ML Journey: Day 80–81 (May 15–16, 2025)
+
+Completed IBM’s **Gen AI Foundational Models for NLP & Language Understanding** certification.
+
+**Key Takeaways:**
+- Foundation models (GPT/BERT) & fine-tuning
+- Prompt engineering & evaluation (perplexity, BLEU, ROUGE)
+- Scalable deployment with IBM Watson & ethics
+
+**Insight:**  
+Blending theory with hands-on practice is key to robust Gen AI NLP solutions.
+
+**Discussion:**  
+Which technique (fine-tuning, prompts, bias mitigation) drives your NLP success?
+---
 ## 📅 Day 82 | AI/ML Learning Journey | May 17, 2025
 
 ### 🎮 Project Completed: League of Legends Match Predictor  
